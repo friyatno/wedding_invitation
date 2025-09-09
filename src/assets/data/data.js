@@ -2,7 +2,7 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Friyatno Halomoan Rumapea',
+            name: 'Friyatno Halomoan Rumapea, S.Kom',
             child: 'Putra ke 1',
             father: 'Anton Renatal Rumapea',
             mother: 'Mudarawati Marpaung',
@@ -10,7 +10,7 @@ export const data = {
         },
         P: {
             id: 2,
-            name: 'Charef Loveanna Pardede',
+            name: 'Charef Loveanna Pardede, S.Ak',
             child: 'Putri ke 2',
             father: 'Parningotan Pardede',
             mother: 'Romana Repelita Sinaga',
