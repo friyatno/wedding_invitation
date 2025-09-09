@@ -3,7 +3,7 @@ export const data = {
         L: {
             id: 1,
             name: 'Friyatno Halomoan Rumapea',
-            child: 'Putra ke 2',
+            child: 'Putra ke 1',
             father: 'Anton Renatal Rumapea',
             mother: 'Mudarawati Marpaung',
             image: './src/assets/images/cowo.png'
@@ -11,7 +11,7 @@ export const data = {
         P: {
             id: 2,
             name: 'Charef Loveanna Pardede',
-            child: 'Putri ke 3',
+            child: 'Putri ke 2',
             father: 'Parningotan Pardede',
             mother: 'Romana Repelita Sinaga',
             image: './src/assets/images/cewe.png'
@@ -23,11 +23,11 @@ export const data = {
     time: {
         marriage: {
             year: '2025',
-            month: 'September',
-            date: '27',
+            month: 'Oktober',
+            date: '04',
             day: 'Sabtu',
             hours: {
-                start: '08.00',
+                start: '10.00',
                 finish: 'Selesai'
             }
         },
