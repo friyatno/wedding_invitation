@@ -33,8 +33,8 @@ export const data = {
         },
         reception: {
             year: '2025',
-            month: 'Oktober',
-            date: '04',
+            month: 'September',
+            date: '27',
             day: 'Sabtu',
             hours: {
                 start: '10.00',
